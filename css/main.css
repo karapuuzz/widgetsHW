@@ -1,0 +1,57 @@
+.container {
+    width: 800px;
+    height: 800px;
+    font-size: 35px;
+    font-family: ".SF NS Display";
+}
+
+.widgets {
+    background: rgba(66, 189, 189, 0.99);
+    color: ghostwhite;
+    height: 300px;
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wid3 {
+    display: flex;
+    justify-content: space-evenly;
+    background: white;
+    color: ghostwhite;
+    height: 200px;
+}
+
+.contact {
+    background: rgba(66, 189, 189, 0.99);
+    color: ghostwhite;
+    height: 300px;
+    margin: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bigwid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: darkcyan;
+    width: 233px;
+    
+}
+.biggerwid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: darkcyan;
+    width: 234px;
+}
+.huge_wid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: darkcyan;
+    width: 233px;
+}
+
